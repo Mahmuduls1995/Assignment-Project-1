@@ -100,7 +100,6 @@ h1{
 
 .third-cart img{
     max-width: 50%;
-
 }
 .second-section{
     margin: 0 30px;
@@ -136,21 +135,6 @@ h1{
 }
 .forth-left-part{
     margin-left: 8%;
-}
-.footer-part{
-    text-align: center;
-    color: white;
-    padding: 15px;
-}
-
-#last{
-    text-align: center;
-}
-footer{
-    background-color: black;
-}
-#extra{
-    font-family: 'Lobster', cursive;
 }
 
 .contact-container {
@@ -204,3 +188,18 @@ input[type=submit]:hover{
 background: tomato;
 }
 
+.footer-part{
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+#last{
+    text-align: center;
+}
+footer{
+    background-color: black;
+}
+#extra{
+    font-family: 'Lobster', cursive;
+}
